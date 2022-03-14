@@ -3,3 +3,4 @@
 ##Background:
 I did the mistake while browsing Ebay and ordered the P-8124 eventhough my motherboard, the Asrock EPC621D8A did not officially support it. What it does support is the other Amazon AWS proprietary/OEM CPU which is called Xeon Platinum 8124m (extended memory?)
 so i had to find a way to run this bad boy. First i went to Win-raid.com and asked around there and was supplied som modded BIOS but it didn't work out. Then i went to the servethehome forus and was supplied a modded version of the stock 1.6 BIOS, it worked but i have (still) stability issues. I guess it has to do with the CPU not being soldlered to the IHS.
+
