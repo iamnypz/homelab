@@ -39,6 +39,22 @@ Disks: 1x nvme for VM storage
 
 OS: UnRAID
 
+### Lab server
+Chassis: Gutted old SATABEAST chassis (cut in half, removed the power rear part). I just love the looks of that chassis. So i ordered a GPU-mining mobo plate from Amazon och placed the mobo plate in the chassis so I could fix the mobo in the chassis.
+
+PSU: Corsair CV 650
+
+MOBO: AsRock Rack EPC621D8A
+
+CPU: Intel Xeon Platinum P-8124 OEM 240W (see screenshots below for some performance numbers)
+
+RAM: 1x Samsung 64GB RDIMM
+
+Disks: 1x SSD for OS
+
+OS: Various
+
+
 ![CB Multicore](https://user-images.githubusercontent.com/96058899/158130595-0c2e87b6-a788-4a3d-a18e-256d07225a60.png)
 ![CB Singlecore](https://user-images.githubusercontent.com/96058899/158130606-421708db-a40a-447b-932d-00af9ab96507.png)
 ![cpu-z](https://user-images.githubusercontent.com/96058899/158130610-2e5131e0-436c-4e91-85b9-ef1437a17a85.png)
