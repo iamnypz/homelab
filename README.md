@@ -9,13 +9,15 @@
 2x [APC Smart-UPS 1000VA](https://www.apc.com/shop/us/en/products/APC-Smart-UPS-1000VA-USB-Serial-230V/P-SUA1000I)
 
 ### File / Application server
-Chassis: Supermicro SC836 (actually a Dell Compellent 40 chassis)
+Chassis: [Supermicro SC836](https://www.supermicro.com/en/products/chassis/3U/836/SC836TQ-R800B) (actually a Dell Compellent 40 chassis)
 
 PSU: Supermicro [PWS-920P-SQ](https://store.supermicro.com/920w-1u-pws-920p-sq.html)
 
 MOBO: Supermicro [X11SPi-TF](https://www.supermicro.com/en/products/motherboard/x11spi-tf)
 
 CPU: Intel Xeon Platinum 8168 
+
+Cooler: Supermicro 
 
 RAM: 1x Samsung 64G RDIMM
 
@@ -54,9 +56,3 @@ Disks: 1x SSD for OS
 
 OS: Various
 
-
-![CB Multicore](https://user-images.githubusercontent.com/96058899/158130595-0c2e87b6-a788-4a3d-a18e-256d07225a60.png)
-![CB Singlecore](https://user-images.githubusercontent.com/96058899/158130606-421708db-a40a-447b-932d-00af9ab96507.png)
-![cpu-z](https://user-images.githubusercontent.com/96058899/158130610-2e5131e0-436c-4e91-85b9-ef1437a17a85.png)
-![hwinfo](https://user-images.githubusercontent.com/96058899/158130614-bcf2b6e5-0832-4b6f-ba3c-d5ac6d09c33a.png)
-![passmark](https://user-images.githubusercontent.com/96058899/158130616-c1b4737e-a5d6-4d5b-b31b-b44406714750.png)
