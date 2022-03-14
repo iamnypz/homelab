@@ -2,10 +2,10 @@
 
 ## Current Lab (bottom up):
 
-# Rack:
+### Rack:
 HP 10622 G2 
 
-# UPS:
+### UPS:
 [APC Smart-UPS 1000VA](https://www.apc.com/shop/us/en/products/APC-Smart-UPS-1000VA-USB-Serial-230V/P-SUA1000I)
 
 ![CB Multicore](https://user-images.githubusercontent.com/96058899/158130595-0c2e87b6-a788-4a3d-a18e-256d07225a60.png)
