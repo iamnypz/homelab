@@ -1,8 +1,12 @@
 # Various findings regardning my homelab
 
-## Current Lab:
+## Current Lab (bottom up):
 
-#Rack: HP 10622 G2 
+# Rack:
+HP 10622 G2 
+
+# UPS:
+[APC Smart-UPS 1000VA](https://www.apc.com/shop/us/en/products/APC-Smart-UPS-1000VA-USB-Serial-230V/P-SUA1000I)
 
 ![CB Multicore](https://user-images.githubusercontent.com/96058899/158130595-0c2e87b6-a788-4a3d-a18e-256d07225a60.png)
 ![CB Singlecore](https://user-images.githubusercontent.com/96058899/158130606-421708db-a40a-447b-932d-00af9ab96507.png)
