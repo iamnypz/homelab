@@ -6,7 +6,7 @@
 [HP 10622 G2](https://cdn.cnetcontent.com/72/86/7286f4ef-70b7-41c9-b13c-1e88ae3dee7f.pdf)
 
 ### UPS:
-2x [APC Smart-UPS 1000VA](https://www.apc.com/shop/us/en/products/APC-Smart-UPS-1000VA-USB-Serial-230V/P-SUA1000I)
+2x [APC Smart-UPS 1000VA](https://www.apc.com/shop/us/en/products/APC-Smart-UPS-1000VA-USB-Serial-230V/P-SUA1000I) (One is offline and just around for redundancy purposes)
 
 ### File / Application server
 Chassis: [Supermicro SC836](https://www.supermicro.com/en/products/chassis/3U/836/SC836TQ-R800B) (actually a Dell Compellent 40 chassis)
