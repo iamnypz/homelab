@@ -20,6 +20,7 @@ so i had to find a way to run this bad boy. First i went to Win-raid.com and ask
 ![cpu-z](https://user-images.githubusercontent.com/96058899/158176416-b4a29594-3053-46cf-bffa-36ad7d07705b.png)
 
 ### HWInfo 64:
+Look att he CPU Package Tmax, 106C! (i'm using a Noctua 4U Cooler with dual 90mm fans @ 100% RPM)
 
 ![hwinfo](https://user-images.githubusercontent.com/96058899/158176418-61e69c1b-4e5a-485f-9a1c-2c281cff1b9a.png)
 
