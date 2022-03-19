@@ -48,7 +48,7 @@ PSU: Corsair CV 650
 
 MOBO: AsRock Rack EPC621D8A
 
-CPU: Intel Xeon Platinum P-8124 OEM 240W (see screenshots below for some performance numbers)
+CPU: Intel Xeon Platinum P-8124 OEM 240W (see the other file for some performance numbers)
 
 RAM: 1x Samsung 64GB RDIMM
 
