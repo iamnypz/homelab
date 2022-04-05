@@ -1,4 +1,4 @@
-# Various findings regardning my homelab
+
 
 ## Current Lab (bottom up):
 
