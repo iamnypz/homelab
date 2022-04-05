@@ -9,7 +9,7 @@
 2x [APC Smart-UPS 1000VA](https://www.apc.com/shop/us/en/products/APC-Smart-UPS-1000VA-USB-Serial-230V/P-SUA1000I) (One is offline and just around for redundancy purposes)
 
 ### File / Application server running unRAID
-Chassis: [Supermicro SC846](https://www.supermicro.com/products/chassis/4U/846/SC846E1-R900.cfm) (with BPN-SAS2-846EL1)
+Chassis: [Supermicro SC846](https://www.supermicro.com/products/chassis/4U/846/SC846E1-R900.cfm) (with BPN-SAS2-846EL1 backplane)
 
 PSU: Supermicro [PWS-920P-SQ](https://store.supermicro.com/920w-1u-pws-920p-sq.html)
 
@@ -20,6 +20,8 @@ CPU: Intel Xeon Platinum 8168
 Cooler: Supermicro 4U
 
 RAM: 1x Samsung 64GB RDIMM
+
+Raid card: LSI 9210-8i Flashed into IT mode PCIe 2 x8
 
 **Disks:**
 
@@ -42,7 +44,7 @@ Total 62TB usable
 
 
 ### Virtualization server
-Chassis: Gutted old SATABEAST chassis (cut in half, removed the power rear part). I just love the looks of that chassis. So i ordered a GPU-mining mobo plate from Amazon och placed the mobo plate in the chassis so I could fix the mobo in the chassis.
+Chassis: Gutted old SATABEAST chassis (cut in half, removed the power rear part). I just love the looks of that chassis. So i ordered a GPU-mining mobo tray from Amazon och placed the mobo tray in the chassis so I could fix the mobo in the chassis.
 
 PSU: Seasonic Focus Plus 750W
 
@@ -57,7 +59,7 @@ Disks: 1x nvme for VM storage
 OS: UnRAID
 
 ### Lab server
-Chassis: Gutted old SATABEAST chassis (cut in half, removed the power rear part). I just love the looks of that chassis. So i ordered a GPU-mining mobo plate from Amazon och placed the mobo plate in the chassis so I could fix the mobo in the chassis.
+Chassis: Gutted old SATABEAST chassis (cut in half, removed the power rear part). I just love the looks of that chassis. So i ordered a GPU-mining mobo tray from Amazon och placed the mobo tray in the chassis so I could fix the mobo in the chassis.
 
 PSU: Corsair CV 650
 
