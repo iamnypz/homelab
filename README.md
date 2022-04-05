@@ -6,7 +6,7 @@
 [HP 10622 G2](https://cdn.cnetcontent.com/72/86/7286f4ef-70b7-41c9-b13c-1e88ae3dee7f.pdf)
 
 ### UPS:
-2x [APC Smart-UPS 1000VA](https://www.apc.com/shop/us/en/products/APC-Smart-UPS-1000VA-USB-Serial-230V/P-SUA1000I) (One is offline and just around for redundancy purposes)
+2x [APC Smart-UPS 1000VA](https://www.apc.com/shop/us/en/products/APC-Smart-UPS-1000VA-USB-Serial-230V/P-SUA1000I) (One is offline and is just around for redundancy purposes)
 
 ### File / Application server running unRAID
 Chassis: [Supermicro SC846](https://www.supermicro.com/products/chassis/4U/846/SC846E1-R900.cfm) (with BPN-SAS2-846EL1 backplane)
