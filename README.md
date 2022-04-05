@@ -22,14 +22,22 @@ Cooler: Supermicro 4U
 RAM: 1x Samsung 64GB RDIMM
 
 **Disks:**
+
 *Main array:*
+
 5x 8TB (Mostly Seagate and they work damn well!)
+
 2x WD Red 3TB
+
 12x 2TB Hitachi Ultrastar Enterprise SATA 2 HDD
+
 Total 62TB usable
 
+
 *write cache:*
+
 1x 1TB Kingston KC2500 NVMe SSD (dockers, VMs and fast storage)
+
 2x 2TB Hitachi (Media and bulk)
 
 
