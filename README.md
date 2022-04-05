@@ -8,8 +8,8 @@
 ### UPS:
 2x [APC Smart-UPS 1000VA](https://www.apc.com/shop/us/en/products/APC-Smart-UPS-1000VA-USB-Serial-230V/P-SUA1000I) (One is offline and just around for redundancy purposes)
 
-### File / Application server
-Chassis: [Supermicro SC836](https://www.supermicro.com/en/products/chassis/3U/836/SC836TQ-R800B) (actually a Dell Compellent 40 chassis)
+### File / Application server running unRAID
+Chassis: [Supermicro SC846](https://www.supermicro.com/products/chassis/4U/846/SC846E1-R900.cfm) (with BPN-SAS2-846EL1)
 
 PSU: Supermicro [PWS-920P-SQ](https://store.supermicro.com/920w-1u-pws-920p-sq.html)
 
@@ -17,13 +17,20 @@ MOBO: Supermicro [X11SPi-TF](https://www.supermicro.com/en/products/motherboard/
 
 CPU: Intel Xeon Platinum 8168 
 
-Cooler: Supermicro 
+Cooler: Supermicro 4U
 
-RAM: 1x Samsung 64G RDIMM
+RAM: 1x Samsung 64GB RDIMM
 
-Disks: Various HDD for array bulk storage and HDD and nvme for caching/dockers
+**Disks:**
+*Main array:*
+5x 8TB (Mostly Seagate and they work damn well!)
+2x WD Red 3TB
+12x 2TB Hitachi Ultrastar Enterprise SATA 2 HDD
+Total 62TB usable
 
-OS: UnRAID
+*write cache:*
+1x 1TB Kingston KC2500 NVMe SSD (dockers, VMs and fast storage)
+2x 2TB Hitachi (Media and bulk)
 
 
 ### Virtualization server
