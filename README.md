@@ -73,3 +73,10 @@ Disks: 1x SSD for OS
 
 OS: Various
 
+### Unifi USW-16-PoE
+
+### [Intel NUC](https://ark.intel.com/content/www/us/en/ark/products/87740/intel-nuc-kit-nuc5ppyh.html) 
+
+For Tailscale and logserver
+
+### Router: [VILFO](https://www.vilfo.com) for easy VPN management and routing. Runs on OpenWRT
